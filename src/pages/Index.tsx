@@ -4,7 +4,7 @@ export default function Index() {
       <div className="grain-overlay" />
 
       <header className="header">
-        <div className="logo">BREW*LAB</div>
+        <div className="logo">ART*COFFEE</div>
         <nav>
           <a href="#">Меню</a>
           <a href="#">О нас</a>
@@ -163,7 +163,7 @@ export default function Index() {
 
         <section className="section-padding">
           <h2 className="section-title" style={{ marginBottom: "40px", textAlign: "center" }}>
-            @BREW.LAB
+            @ARTCOFFEE
           </h2>
           <div className="social-grid">
             <div className="social-item">
@@ -196,7 +196,7 @@ export default function Index() {
 
       <footer>
         <div>
-          <div className="footer-logo">BREW*LAB</div>
+          <div className="footer-logo">ART*COFFEE</div>
           <p style={{ color: "#666", lineHeight: 1.6 }}>
             Спешелти-кофейня для тех, кто знает толк. С любовью к зерну с 2024 года.
           </p>
